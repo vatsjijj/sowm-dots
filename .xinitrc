@@ -6,6 +6,7 @@ dunst &
 sxhkd &
 picom &
 ~/.fehbg &
+cat ~/.cache/wal/sequences &
 ~/Downloads/simplelemon.sh &
 
 exec dbus-launch sowm
