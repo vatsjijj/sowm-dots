@@ -4,7 +4,7 @@ setxkbmap -option terminate:ctrl_alt_bksp
 
 dunst &
 sxhkd &
-picom &
+picom --experimental-backends &
 ~/.fehbg &
 cat ~/.cache/wal/sequences &
 ~/Downloads/simplelemon.sh &
