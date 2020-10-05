@@ -1,5 +1,5 @@
 ## dotfiles
-dotfiles for my configuration of arch linux.
+dotfiles for my configuration of arch linux. (sowm)
 
 ## why
 
